@@ -8,9 +8,9 @@ Projekt SQL/PLSQL: raporty miesięcznej sprzedaży dla pracowników, w tym staty
 Celem projektu jest przygotowanie raportów sprzedaży dla wszystkich pracowników firmy za ostatnie 12 miesięcy (bez bieżącego miesiąca). Raporty zawierają liczbę transakcji, wartość sprzedaży, średnią wartość transakcji oraz maksymalną wartość pojedynczej transakcji. Dodatkowo projekt identyfikuje najlepszych sprzedawców w każdym regionie i przydziela im dodatkową premię.  
 
 **Czego się nauczyłem:**  
-- Tworzenia **zaawansowanych raportów SQL/PLSQL** dla biznesu,  
+- Tworzenia **zaawansowanych raportów SQL dla biznesu,  
 - Grupowania danych i agregacji z wykorzystaniem funkcji takich jak COUNT, SUM, AVG, MAX oraz CTE  
-- Tworzenia **procedur i zapytań warunkowych**, które wyznaczają najlepszych pracowników,  
+- Tworzenia zapytań warunkowych, które wyznaczają najlepszych pracowników,  
 - Pracy z danymi historycznymi w celu przygotowania analiz miesięcznych,  
 - Projektowania raportów w sposób czytelny i gotowy do użycia
 
