@@ -1,5 +1,5 @@
 # sql-sales-reporting
-Projekt SQL/PLSQL: raporty miesięcznej sprzedaży dla pracowników, w tym statystyki transakcji i premie dla najlepszych.
+Projekt SQL: raporty miesięcznej sprzedaży dla pracowników, w tym statystyki transakcji i premie dla najlepszych.
 
 
 ## 🇵🇱 Opis projektu
@@ -27,9 +27,9 @@ Celem projektu jest przygotowanie raportów sprzedaży dla wszystkich pracownik�
 The goal of this project is to generate sales reports for all company employees for the past 12 months (excluding the current month). Reports include the number of transactions, total sales, average transaction value, and maximum transaction value. Additionally, the project identifies top-performing employees in each region and assigns them bonus rewards.  
 
 **Skills gained:**  
-- Creating **advanced SQL/PLSQL reports** for business use,  
+- Creating **advanced SQL reports** for business use,  
 - Data aggregation using functions like COUNT, SUM, AVG, MAX,  
-- Writing **procedures and conditional queries** to identify top performers,  
+- Writing conditional queries** to identify top performers,  
 - Working with historical data to produce monthly analysis,  
 - Designing reports in a **clear and actionable format** for management.  
 
